@@ -6,3 +6,6 @@ Bienvenido a mi página
 - [[binarios]]
 - [[hexagesimal]]
 - [[if]]
+- [[otro tema para que veas el ejemplo]]
+
+puedo editar la pagina como te digoooooo puedo editar la pagina en tiempo real ira. asi
