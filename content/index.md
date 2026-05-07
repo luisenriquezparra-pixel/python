@@ -1,3 +1,7 @@
+---
+tags:
+  - hidden
+---
 # Inicio
 ## Navegación
 
