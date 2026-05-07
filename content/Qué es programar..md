@@ -2,3 +2,5 @@ Programar es el proceso de crear un conjunto de instrucciones precisas y ordenad
 
 ## Ejemplo:
 ![[Pasted image 20260507192819.png]]
+
+![[GIF.webp]]
