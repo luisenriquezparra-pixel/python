@@ -1,3 +1,4 @@
-Python, Lenguaje de programacion de alto nivel, reconocido por su sintaxis sencilla y legible, similar al idioma ingles, ideal para principiantes. En esta articulo se usara para aprender las bases de la programacion.
+Python diseñado y pubiclado el 1991 por Guido van Rossum, Lenguaje de programacion de alto nivel, reconocido por su sintaxis sencilla y legible, similar al idioma ingles, ideal para principiantes. En esta articulo se usara para aprender las bases de la programacion.
 
-![[Imagen de python.jpg]]
+![[Imagen de python.jpg|97]] 
+
