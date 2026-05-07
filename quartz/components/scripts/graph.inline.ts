@@ -143,12 +143,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
   }
 
- const nodes = [...neighbourhood]
-  .filter((url) => {
-    const tags = data.get(url)?.tags ?? []
-    return !tags.includes("hidden")
-  })
+const nodes = [...neighbourhood]
   .map((url) => {
+    const tags = data.get(url)?.tags ?? []
+
+    if (tags.includes("hidden")) {
+      return null
+    }
+
     const text =
       url.startsWith("tags/")
         ? "#" + url.substring(5)
@@ -157,9 +159,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     return {
       id: url,
       text,
-      tags: data.get(url)?.tags ?? [],
+      tags,
     }
   })
+  .filter(Boolean)
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: links
