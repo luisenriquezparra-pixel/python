@@ -1,0 +1,5 @@
+# Inicio
+
+## Navegación
+
+- [[Python]]
