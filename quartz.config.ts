@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "luisenriquezparra-pixel.github.io/python",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["_privado","private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
