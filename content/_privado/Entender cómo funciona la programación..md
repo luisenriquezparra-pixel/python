@@ -1,1 +1,0 @@
-entender a profundo la programacion (ejemplo no es texto real de la pagina)

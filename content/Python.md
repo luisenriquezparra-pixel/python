@@ -4,7 +4,7 @@ Python diseñado el 1991 por Guido van Rossum, Lenguaje de programación de alto
 
 ## 🔴 Objetivo de esta página web
 
-➥ ![[Entender cómo funciona la programación.]]  
+➥ Entender cómo funciona la programación.  
 ➥ Pensar como programador.  
 ➥ Usar Python como herramienta de aprendizaje.
 
