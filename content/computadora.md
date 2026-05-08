@@ -1,0 +1,1 @@
+Una computadora es una máquina electrónica programable capaz de procesar, almacenar y gestionar grandes volúmenes de información rápidamente. Funciona recibiendo datos de entrada, procesándolos mediante un software (instrucciones) y hardware (componentes físicos), y proporcionando resultados de salida, como texto, imágenes o sonido.

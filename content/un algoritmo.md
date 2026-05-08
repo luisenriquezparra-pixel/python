@@ -1,0 +1,1 @@
+Un algoritmo es un conjunto ordenado, finito y definido de instrucciones o reglas lógicas que permiten solucionar un problema, realizar un cálculo o ejecutar una tarea específica
